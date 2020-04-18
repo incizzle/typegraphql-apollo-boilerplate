@@ -1,0 +1,1 @@
+typegraphql-apollo-boilerplate
